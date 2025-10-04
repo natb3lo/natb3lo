@@ -152,7 +152,7 @@ Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor bac
     title="GitHub Stats"
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=natb3lo&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&language_count=7&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=natb3lo&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&language_count=6&layout=compact"
 />
 
 </p>

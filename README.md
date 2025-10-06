@@ -60,11 +60,11 @@ Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor bac
 
 <img 
     align="left" 
-    alt="Express.js" 
-    title="Express.js"
+    alt="Next.js" 
+    title="Next.js"
     width="30px" 
     style="padding-right: 10px; filter: brightness(0) invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"       
 />
 <img 
     align="left" 

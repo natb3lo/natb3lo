@@ -144,7 +144,7 @@ Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor bac
     title="GitHub Stats"
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=natb3lo&show_icons=true&theme=tokyonight&locale=pt-br&hide=stars&include_all_commits=false&commits_year=2025" 
+    src="https://github-readme-stats.vercel.app/api?username=natb3lo&show_icons=true&hide=stars&commits_year=2025&theme=tokyonight" 
 />
 <img 
     align="left" 
@@ -152,7 +152,7 @@ Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor bac
     title="GitHub Stats"
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=natb3lo&theme=tokyonight&locale=pt-br&custom_title=Tecnologias&language_count=6&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=natb3lo&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=tokyonight"
 />
 
 </p>

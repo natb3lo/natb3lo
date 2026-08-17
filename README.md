@@ -1,8 +1,8 @@
 # 👨‍💻 Natã Belo
-**`Desenvolvedor Backend`**
+**`Cientista de Dados e Desenvolvedor Fulstack`**
 
 
-Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor backend e amante de tecnologia, atualmente cursando Ciências da Computação no CEFET/RJ.
+Desenvolvedor Fullstack e Estagiário em Ciência de Dados nos grupos globo, atualmente cursando Ciências da Computação no CEFET/RJ.
 
    <p align="center">
       <a href="mailto:nbsantosv@gmail.com">
@@ -49,55 +49,43 @@ Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor bac
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Node.js"
-    title="Node.js" 
+    alt="Typescript"
+    title="Typescript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px; filter: brightness(0) invert(1);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"       
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
+
 <img 
     align="left" 
-    alt="Spring" 
-    title="Spring"
+    alt="Next.js"
+    title="Next.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
 />
+
 <img 
     align="left" 
-    alt="C#" 
-    title="C#"
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="PostgreSQL" 
@@ -108,11 +96,11 @@ Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor bac
 />
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
+    alt="Myysql" 
+    title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
@@ -121,14 +109,6 @@ Me chamo Natã, tenho 24 anos e sou natural do Rio de Janeiro. Desenvolvedor bac
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br/>

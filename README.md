@@ -1,8 +1,8 @@
 # 👨‍💻 Natã Belo
-**`Cientista de Dados e Desenvolvedor Fulstack`**
+**`Cientista de Dados e Desenvolvedor Fullstack`**
 
 
-Desenvolvedor Fullstack e Estagiário em Ciência de Dados nos grupos globo, atualmente cursando Ciências da Computação no CEFET/RJ.
+Desenvolvedor Fullstack e Estagiário em Ciência de Dados nos grupos globo. Atualmente cursando Ciências da Computação no CEFET/RJ.
 
    <p align="center">
       <a href="mailto:nbsantosv@gmail.com">
